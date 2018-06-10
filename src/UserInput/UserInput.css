@@ -1,0 +1,8 @@
+.UserInput{
+  padding: 10px;
+}
+
+.UserInput input{
+  width: 200px;
+  height: 25px;
+}
